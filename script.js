@@ -1,6 +1,6 @@
 
-var huPlayer;
-var aiPlayer;
+var huPlayer = 'X';
+var aiPlayer = 'O';
 function myfunc()
 {
 	var par=document.getElementsByName('choice')[0];
