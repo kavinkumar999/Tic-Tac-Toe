@@ -1,1 +1,1 @@
-<?php include_once ("tictactoe.html")  ?>
+<?php include_once ("index.html")  ?>
