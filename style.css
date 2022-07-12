@@ -36,6 +36,10 @@ table tr td:last-child {
 	top: 200px;
 	margin-left:500px;
 }
+.selector-container {
+	display: flex;
+	gap: 50px;
+}
 
 .endgame {
   display: none;
